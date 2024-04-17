@@ -1,6 +1,7 @@
 {
+	"author": "tk",
     "name": "com.tk.shaderextensions",
-    "displayName": "_Shader Graph Extensions",
+    "displayName": "_TKSGExtensions",
     "version": "1.0.0",
     "description": "Shader Graph Tools For Unity.",
     "keywords": [],
