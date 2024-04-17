@@ -1,0 +1,9 @@
+{
+    "name": "com.tk.shaderextensions",
+    "displayName": "_Shader Graph Extensions",
+    "version": "1.0.0",
+    "description": "Shader Graph Tools For Unity.",
+    "keywords": [],
+    "category": "",
+    "dependencies": { }
+}
